@@ -14,9 +14,9 @@
 $link-color: red;
 */
 
-$global-font-family: $times;
-$header-font-family: $times;
-$caption-font-family: $times;
+$global-font-family: $serif;
+$header-font-family: $serif;
+$caption-font-family: $serif;
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
