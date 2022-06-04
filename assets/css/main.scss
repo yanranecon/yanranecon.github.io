@@ -12,10 +12,10 @@
 
 /*
 $link-color: red;
-$global-font-family : $sans-serif;
-$header-font-family : $sans-serif;
 */
 
+$global-font-family : $times;
+$header-font-family : $times;
 $caption-font-family : $times;
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
