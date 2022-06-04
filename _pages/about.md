@@ -1,6 +1,7 @@
 ---
+layout: archive
 permalink: /
-title: "Fulin Li"
+title: "Contact"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
