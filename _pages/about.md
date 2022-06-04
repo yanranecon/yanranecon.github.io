@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /
 title: "Fulin Li"
 excerpt: "About me"
