@@ -14,10 +14,6 @@
 $link-color: red;
 */
 
-$global-font-family: $serif;
-$header-font-family: $serif;
-$caption-font-family: $serif;
-
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -47,3 +43,7 @@ $caption-font-family: $serif;
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+$global-font-family: $serif;
+$header-font-family: $serif;
+$caption-font-family: $serif;
