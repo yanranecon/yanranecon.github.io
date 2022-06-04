@@ -11,3 +11,6 @@ redirect_from:
 I am a Ph.D. Candidate in the Joint Program in Financial Economics at The University of Chicago Booth School of Business and Kenneth C. Griffin Department of Economics.
 
 My research interests are asset pricing and macroeconomics.
+
+
+**Contact:** fli3@chicagobooth.edu
