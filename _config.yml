@@ -83,12 +83,12 @@ author:
   name             : "Fulin Li"
   avatar           : "profile.png"
   bio              : "PhD Student in the Joint Program in Financial Economics"
-  location         : "University of Chicago Booth School of Business"
+  location         : # "University of Chicago Booth School of Business"
   employer         : "University of Chicago"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RCW2eTAAAAAJ&hl=en&authuser=2"
   email            : "fli3@chicagobooth.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
