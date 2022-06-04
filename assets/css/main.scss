@@ -10,11 +10,6 @@
  *
 */
 
-.page__lead {
-  font-family: $global-font-family;
-  font-size: $type-size-4;
-}
-
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
