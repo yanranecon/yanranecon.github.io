@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Fire Sales and Financial Contracts
 
  * [**Time Variation in the News-Returns Relationship**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420981)
 
