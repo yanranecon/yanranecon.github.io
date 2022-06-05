@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### The University of Chicago
-* Corporate Finance (EMBA), TA for Pietro Veronesi 
+* Corporate Finance (EMBA), TA for Pietro Veronesi  
   Winter 2020, Spring 2021 
 * Investments (MBA), TA for John Heaton  
   Autumn 2019, Autumn 2020
