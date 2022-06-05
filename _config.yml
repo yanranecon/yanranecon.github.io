@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Fulin Li"
 title_separator          : "-"
-logo                     : "/images/lifulin.png"
+#logo                     : "/images/site-logo.png"
 name                     : &name "Fulin Li"
 description              : &description "Ph.D. Candidate in Financial Economics"
 url                      : https://lifulin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
