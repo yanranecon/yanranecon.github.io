@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV](../files/CV_Fulin_Li_20220604.pdf): June 2022
+[This version](../files/CV_Fulin_Li_20220604.pdf): June 2022
