@@ -14,4 +14,4 @@ I am a Ph.D. student in the Joint Program in Financial Economics at The Universi
 
 **Contact**: fli3@chicagobooth.edu
 
-[**CV**](../files/CV_Fulin_Li_20220604.pdf): June 2022
+[**CV**](../files/CV_Fulin_Li_20220604.pdf)
