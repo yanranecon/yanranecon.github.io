@@ -13,3 +13,5 @@ I am a Ph.D. student in the Joint Program in Financial Economics at The Universi
 **Research Interests**: Asset Pricing, Macroeconomics
 
 **Contact**: fli3@chicagobooth.edu
+
+**CV**: [June 2022](../files/CV_Fulin_Li_20220604.pdf)
