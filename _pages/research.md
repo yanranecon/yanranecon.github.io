@@ -19,5 +19,8 @@ author_profile: true
 2. [Time Variation in the News-Returns Relationship](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420981) (with Paul Glasserman and Harry Mamaysky)  
    This version: March 2022  
    \[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420981)\] \[[Internet Appendix](../files/Glasserman_Li_Mamaysky_internet_appendix_20220314.pdf)\] \[[Model Appendix](../files/Glasserman_Li_Mamaysky_model_20220314.pdf)\]   
+   <details><summary>Abstract</summary>
+   <p>
    The well-documented underreaction of stock prices to news exhibits substantial time variation. Higher risk-bearing capacity of financial intermediaries, lower passive ownership of stocks, and more informative news increase price responses to contemporaneous news; surprisingly, they also increase price responses to lagged news (underreaction). Our findings are not driven by short-sale constraints, serial correlation in news flow, or improved information processing capacity. We discuss possible mechanisms based on investor behavior and strategic order-splitting by institutions. A simple model with limited attention and three investor types -- institutional, non-institutional, passive -- predicts the varying response to news we observe.  
-   
+   <p>
+   </details>
