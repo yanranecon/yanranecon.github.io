@@ -89,7 +89,7 @@ author:
   employer         : "University of Chicago"
   links:
     - label: "SSRN"
-      #icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3304560"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RCW2eTAAAAAJ&hl=en&authuser=2"
