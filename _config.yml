@@ -87,10 +87,6 @@ author:
   bio              : "Ph.D. Candidate in Financial Economics"
   location         : # "University of Chicago Booth School of Business"
   employer         : "University of Chicago"
-  links:
-    - label: "SSRN"
-      icon: "fas fa-fw fa-link"
-      url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3304560"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RCW2eTAAAAAJ&hl=en&authuser=2"
   email            : "fli3@chicagobooth.edu"
@@ -121,6 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3304560"
   
 
 # Reading Files
