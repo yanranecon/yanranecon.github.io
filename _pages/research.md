@@ -15,7 +15,7 @@ author_profile: true
    </details>
 
 2. [Time Variation in the News-Returns Relationship](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420981) (with Paul Glasserman and Harry Mamaysky)  
-   Revise and resubmit at *Journal of Financial and Quantitative Analysis*
+   Revise and resubmit at *Journal of Financial and Quantitative Analysis*    
    This version: March 2022  
    \[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420981)\] \[[Internet Appendix](../files/Glasserman_Li_Mamaysky_internet_appendix_20220314.pdf)\] \[[Model Appendix](../files/Glasserman_Li_Mamaysky_model_20220314.pdf)\]   
    <details><summary>Abstract</summary>
