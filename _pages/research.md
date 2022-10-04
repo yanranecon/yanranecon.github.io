@@ -10,7 +10,7 @@ author_profile: true
 [Retail Trading and Asset Prices: The Role of Changing Social Dynamics](../files/Li_paper_combined_20221003.pdf)    
 This version: October 2022       
 \[[Paper](../files/Li_paper_20221003.pdf)\] \[[Internet Appendix](../files/Li_internet_appendix_20221003.pdf)\]
-   <details><summary>Abstract</summary>
+<details><summary>Abstract</summary>
    I study the impact of retail trading on asset prices, in the context of GameStop short
 squeeze. I find significant time variation in the price impact of retail sentiment. The
 same retail sentiment change of GameStop had much larger price impact in January
@@ -25,7 +25,7 @@ impact, if it puts institutions at their portfolio constraints and effectively m
 price-inelastic. Moreover, the price fluctuations redistribute wealth across investors
 with different elasticities. These two forces drive the changing price impact of retail
 sentiment.
-   </details>
+</details>
 
 ## Working Papers
 
