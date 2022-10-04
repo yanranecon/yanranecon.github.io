@@ -20,7 +20,7 @@ author_profile: true
 </ol>
 <ol start="2">
 <li>
-   [Neoclassical Growth Transition Dynamics with One-Sided Commitment](../files/Krueger_Li_Uhlig_paper_20220401.pdf) (with Dirk Krueger and Harald Uhlig)
+   [Neoclassical Growth Transition Dynamics with One-Sided Commitment](../files/Krueger_Li_Uhlig_paper_20220401.pdf) (with Dirk Krueger and Harald Uhlig)     
    This version: April 2022  
 </li>
 </ol>
