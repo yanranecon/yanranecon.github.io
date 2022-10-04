@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Job Market Paper
-1. [Retail Trading and Asset Prices: The Role of Changing Social Dynamics](../files/Li_paper_combined_20221003.pdf)    
+- [Retail Trading and Asset Prices: The Role of Changing Social Dynamics](../files/Li_paper_combined_20221003.pdf)    
    This version: October 2022       
    \[[Paper](../files/Li_paper.pdf)\] \[[Internet Appendix](../files/Li_internet_appendix.pdf)\]
    <details><summary>Abstract</summary>
