@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+## Job Market Paper
+[Retail Trading and Asset Prices: The Role of Changing Social Dynamics](../files/Li_paper_combined_20221003.pdf)
 
 ## Working Papers
 
