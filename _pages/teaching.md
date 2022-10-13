@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ### The University of Chicago
-* Corporate Finance (EMBA), TA for Pietro Veronesi  
+* Corporate Finance (EMBA core), TA for Pietro Veronesi  
   Winter 2020, Spring 2021 
-* Investments (MBA), TA for John Heaton  
+* Investments (MBA core), TA for John Heaton  
   Autumn 2019, Autumn 2020
-* Financial Economics: Speculative Markets (Undergrad), TA for Fernando Alvarez   
+* Financial Economics: Speculative Markets (Undergrad elective), TA for Fernando Alvarez   
   Spring 2019, Spring 2020, Spring 2021
 
 ### Columbia Business School
-* Capital Markets and Investments (MBA), TA for Harry Mamaysky   
+* Capital Markets and Investments (MBA core), TA for Harry Mamaysky   
   Fall 2016
