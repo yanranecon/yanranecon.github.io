@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Joint Program in Financial Economics at The University of Chicago Booth School of Business and Kenneth C. Griffin Department of Economics.
+I am a Ph.D. student in the Joint Program in Financial Economics at The University of Chicago Booth School of Business and Kenneth C. Griffin Department of Economics. I am on the academic job market in Fall 2022/Spring 2023.
 
 **Research Interests**: Asset Pricing, Macroeconomics
 
