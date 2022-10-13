@@ -14,7 +14,7 @@ I am a Ph.D. student in the Joint Program in Financial Economics at The Universi
 
 **Contact**: fli3@chicagobooth.edu
 
-[**Research**](/research/)
+[**Research**]([/research/])
 
 [**CV**](../files/CV_Fulin_Li.pdf)
 
