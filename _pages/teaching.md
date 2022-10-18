@@ -7,7 +7,7 @@ author_profile: true
 
 ### Teaching Assistant
 * Introduction to Economics, UNC-CH, Spring 2022
-* Advanced Macro Theory I (Graduate), UNC-CH, Fall 2021/20/19/18
+* Advanced Macroeconomics Theory I (Graduate), UNC-CH, Fall 2021/20/19/18
 
   **Outstanding Graduate Teaching Assistant Award 2020**
   
@@ -15,10 +15,10 @@ author_profile: true
   
   **Outstanding Graduate Teaching Assistant Award 2018**
   
-* Intermediate Micro, UNC-CH, Spring 2021
+* Intermediate Microeconomics, UNC-CH, Spring 2021
 * Financial Economics, UNC-CH, Summer 2020
-* Advanced Macro Theory II (Graduate), UNC-CH, Spring 2019
+* Advanced Macroeconomics Theory II (Graduate), UNC-CH, Spring 2019
 
 ### Instructor
-* Intermediate Macro, UNC-CH, Summer 2021
-* Introductory Macro, Osaka International University, Spring 2016/15
+* Intermediate Macroeconomics, UNC-CH, Summer 2021
+* Introductory Macroeconomics, Osaka International University, Spring 2016/15
