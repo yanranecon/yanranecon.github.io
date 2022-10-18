@@ -18,6 +18,6 @@ I am on the 2022-2023 job market and will be available for interviews at the 202
 
 [**Research**](https://yanranecon.github.io/research/)
 
-[**CV**](../files/CV_Fulin_Li.pdf)
+[**CV**](../files/CV_Yanran.pdf)
 
 <!---**CV**: Coming soon.--->
