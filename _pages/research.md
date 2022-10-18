@@ -15,7 +15,7 @@ author_profile: true
    </details>
 
 ## Working Papers
-1. [Inheritance, Wealth Distribution, and Estate Taxation](../files/Inheritance.pdf)
+1. [Inheritance, Wealth Distribution, and Estate Taxation](../files/Inheritance.pdf)    
    This version: October 2022  
    \[[Paper](../files/Inheritance.pdf)\] \[[Slides](../files/Inheritance_Slides.pdf)\]
    <details><summary>Abstract</summary>
