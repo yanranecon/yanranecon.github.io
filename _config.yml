@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fulin Li"
+title                    : "Yanran Guo"
 title_separator          : "-"
 logo                     : ""
-name                     : &name "Fulin Li"
-description              : &description "Ph.D. Candidate in Financial Economics"
-url                      : https://lifulin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yanran Guo"
+description              : &description "Ph.D. Candidate in Economics"
+url                      : https://yanranecon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lifulin.github.io"
+repository               : "yanranecon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fulin Li"
+  name             : "Yanran Guo"
   avatar           : "lifulin.png"
-  bio              : "Ph.D. Candidate in Financial Economics"
-  location         : # "University of Chicago Booth School of Business"
-  employer         : "University of Chicago"
+  bio              : "Ph.D. Candidate in Economics"
+  location         : # "University of North Carolina at Chapel Hill"
+  employer         : "University of North Carolina at Chapel Hill"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=RCW2eTAAAAAJ&hl=en&authuser=2"
-  email            : "fli3@chicagobooth.edu"
+  googlescholar    : # "https://scholar.google.com/citations?user=RCW2eTAAAAAJ&hl=en&authuser=2"
+  email            : "yanran@live.unc.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "lifulin"
+  github           : # "yanranecon"
   google_plus      :
   keybase          :
   instagram        :
