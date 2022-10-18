@@ -86,7 +86,7 @@ author:
   avatar           : "profilephoto.PNG"
   bio              : "Ph.D. Candidate in Economics"
   location         : # "University of North Carolina at Chapel Hill"
-  employer         : "University of North Carolina at Chapel Hill"
+  employer         : "University of North Carolina"  "at Chapel Hill"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "https://scholar.google.com/citations?user=RCW2eTAAAAAJ&hl=en&authuser=2"
   email            : "yanran@live.unc.edu"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "yanranecon"
+  github           : "yanranecon"
   google_plus      :
   keybase          :
   instagram        :
@@ -117,7 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3304560"
+  ssrn             : # "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3304560"
   
 
 # Reading Files
