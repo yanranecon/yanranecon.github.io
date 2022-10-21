@@ -12,5 +12,5 @@ main:
   - title: "Code"
     url: /code/
 
-  - title: "Outside Economics"
-    url: /outsideeconomics/
+  #- title: "Outside Economics"
+  #  url: /outsideeconomics/
