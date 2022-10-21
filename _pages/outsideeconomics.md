@@ -7,4 +7,4 @@ author_profile: true
 
 Another me in a parallel universe is probably a professional anime drawer.
 
-[<img src="superhero.jpg" width="50"/>](../images/superhero.jpg)
+![](../images/superhero.jpg =100x20)
