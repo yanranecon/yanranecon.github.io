@@ -7,4 +7,4 @@ author_profile: true
 
 Another me in a parallel universe is probably a professional anime drawer.
 
-![Drag Racing](../images/superhero.jpg)
+![Super Heros](../images/superhero.jpg=100*20)
