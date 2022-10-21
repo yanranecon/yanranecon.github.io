@@ -221,15 +221,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _outsideeconomics
-  - scope:
-      path: ""
-      type: outsideeconomics
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
