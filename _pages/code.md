@@ -15,3 +15,7 @@ I am sharing my notes and Matlab code. Hopefully, it will help you and make your
    
 2. Huggett (1996)         
    \[[Notes]()\] \[[Code]()\]
+
+*Other Extensions*
+
+1. Castaneda, Díaz-Giménez, and Ríos-Rull (2003)
