@@ -5,7 +5,7 @@ permalink: /outsideeconomics/
 author_profile: true
 ---
 
-Another me in a parallel universe is probably a professional anime drawer.
+Another me in a parallel universe is an anime drawer.
 
 <img src="../images/onepunch.jpg" width="280"> 
 
