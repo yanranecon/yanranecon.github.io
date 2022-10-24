@@ -20,7 +20,7 @@ I am sharing my notes and Matlab code. Hopefully, it will help you and make your
 
 1. Transition Dynamics  
    An “MIT shock” is an unexpected shock that hits an economy at its steady state, leading to a transition path back towards a new steady state. The primary purpose of this note is to expalin the computation of the deterministic transition dynamics of the model economy after an unexpected policy change. I do this exercise in Aiyagari (1994) model economy using a change in household's borrowing constraint as the shock.  
-   \[[Notes](../files/MIT.pdf)\] \[[Code](https://github.com/yanranecon/CDR-2003-Replication/tree/main/Codes)\]
+   \[[Notes](../files/MIT.pdf)\] \[[Code](https://github.com/yanranecon/MIT-Shock/tree/main/Codes)\]
 
 2. Castaneda, Díaz-Giménez, and Ríos-Rull (2003)  
    CDR (2003) model is an extension of Aiyagari (1994) with stochastic aging and labor supply decision.  
