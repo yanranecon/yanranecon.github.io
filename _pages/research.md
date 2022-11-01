@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Job Market Paper
-1. [Taxing Top Incomes in the World of Entrepreneurs]()    
+1. [Taxing Top Incomes in a World of Entrepreneurs]()    
    This version: October 2022       
    \[[Paper]()\]
    <details><summary>Abstract</summary>   
