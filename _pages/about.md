@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at The University of North Carolina at Chapel Hill.      
+I am an economics PhD student at the University of North Carolina at Chapel Hill interested in quantitative macroeconomics. My research focuses on the implications of redistributive taxation for inequality and productivity. I am also interested in entrepreneurship and firm dynamics.  
+
+I will be joining the University of Queensland School of Economics as a Lecturer (Assistant Professor) in Fall 2024.
 
 **Contact**: yanran@live.unc.edu
 
