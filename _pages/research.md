@@ -23,7 +23,7 @@ author_profile: true
    </details>
    
 ## Work in Progress
-1. [What Should We Tax, Capital, Wealth, or Inheritance?]
+1. What Should We Tax, Capital, Wealth, or Inheritance?
    <details><summary>Abstract</summary>
    In recent decades, wealth inequality has become an increasingly prominent issue in many developed countries. The United States, in particular, has seen significant increases in wealth gaps, sparking fierce debates over how best to address the issue. One of the most contentious proposals has been the idea of redistributive policies, including calls to tax capital income, wealth, and inheritance. In this paper, we examine the impacts of capital income, wealth, and estate taxation within a quantitative framework. In contrast to existing studies, we also investigate joint reforms, in which the government can simultaneously modify the schedules for all three taxes.
    </details>
