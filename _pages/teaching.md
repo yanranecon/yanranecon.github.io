@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Teaching Assistant
+* Financial Markets and Economic Fluctuations, UNC-CH, Spring 2023
 * Introduction to Economics, UNC-CH, Spring 2022
 * Advanced Macroeconomics Theory I (Graduate), UNC-CH, Fall 2021/20/19/18 \[[Slides](https://github.com/yanranecon/Econ720_Recitation)\]  
   
