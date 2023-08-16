@@ -16,4 +16,4 @@ I am a Lecturer (Assistant Professor) at the University of Queensland, School of
 
 <!---   [**Research**](https://yanranecon.github.io/research/)    --->
 
-[**CV**](../files/CV.pdf)
+[**CV**](../files/CV_August2023.pdf)
