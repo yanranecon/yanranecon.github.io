@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Lecturer (Assistant Professor) at the University of Queensland, School of Economics. My research focuses on the implications of redistributive taxation for inequality and productivity. I also have a keen interest in studying entrepreneurship and the dynamics of firms.
 
-**Contact**: yanran@live.unc.edu
+**Contact**: yanran.guo@uq.edu.au
 
 **Research Interests**: Macroeconomics, Entrepreneurship, Firm Dynamics, Income and Wealth Inequality, Taxation
 
