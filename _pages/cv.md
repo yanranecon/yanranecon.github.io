@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[This version](../files/CV_Yanran.pdf): October 2022
+[This version](../files/CV_Yanran.pdf): August 2023
 <!--- Coming soon.  --->
