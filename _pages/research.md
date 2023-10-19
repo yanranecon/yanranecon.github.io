@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Job Market Paper
+## Working Papers
 1. [Taxing Top Incomes in a World of Entrepreneurs](../files/JMP.pdf)    
    This version: November 2022 (New draft coming soon!)       
    \[[Paper](../files/JMP.pdf)\]
@@ -14,8 +14,7 @@ author_profile: true
    This paper shows that high top marginal income tax rates generate large aggregate output and productivity losses. These losses arise because taxes distort decisions of entrepreneurs, who constitute a large share of high income earners. I identify two novel distortions. The first one is the "productivity investment effect". Top income tax rates distort the productivity accumulation decisions not only of entrepreneurs who are already in the top income bracket but also of those who will become top earners in the future by building up their firms. This is because households are forward looking. Anticipating that they will be subject to the high top income tax rate in the future, these middle-income entrepreneurs find it less optimal to accumulate productivity for their firms now. As a result, they slow down their productivity accumulation process. The second force is the "incorporation timing effect". Successful entrepreneurs grow their firms and then sell their businesses to the corporate sector through incorporation. High top tax rates push these entrepreneurs to sell before their firms reach their full productivity potential. This force is driven by a feature of the tax code: the sale of a firm is treated as capital gains, which are taxed at a lower rate than ordinary income. Therefore, when the top income tax rate gets higher, entrepreneurs tend to use incorporation as a tax shelter and incorporate their firms earlier. Early incorporation timing means entrepreneurs do not have enough time to grow their firms to their full productivity potential. These prematurely incorporated businesses lower productivity in the corporate sector. Both effects imply that even though it targets only a small fraction of households, increasing the top marginal income tax rate generates large output costs by decreasing productivity. Since lower productivity erodes the tax base, in a calibrated model, the revenue-maximizing top income tax rate is 45%.
    </details>
 
-## Working Papers
-1. [Inheritance, Wealth Distribution, and Estate Taxation](../files/Inheritance.pdf)    
+2. [Inheritance, Wealth Distribution, and Estate Taxation](../files/Inheritance.pdf)    
    This version: October 2022  
    \[[Paper](../files/Inheritance.pdf)\]
    <details><summary>Abstract</summary>
