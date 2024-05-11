@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Instructor
-* \[Intermediate Macroeconomics (https://course-profiles.uq.edu.au/student_section_loader/section_1/131477)\], UQ, 2024
+* \[[Intermediate Macroeconomics](https://course-profiles.uq.edu.au/student_section_loader/section_1/131477)\], UQ, 2024
 * Intermediate Macroeconomics, UNC-CH, Summer 2021
 * Introductory Macroeconomics, Osaka International University, Spring 2016/15
 
