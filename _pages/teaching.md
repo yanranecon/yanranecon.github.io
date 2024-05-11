@@ -5,8 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Lecturer
-* Intermediate Macroeconomics, UQ, 2024
+### Instructor
+* \[Intermediate Macroeconomics (https://course-profiles.uq.edu.au/student_section_loader/section_1/131477)\], UQ, 2024
+* Intermediate Macroeconomics, UNC-CH, Summer 2021
+* Introductory Macroeconomics, Osaka International University, Spring 2016/15
 
 ### Teaching Assistant
 * Financial Markets and Economic Fluctuations, UNC-CH, Spring 2023
@@ -15,14 +17,10 @@ author_profile: true
   
   [//]: # (**Outstanding Graduate Teaching Assistant Award 2020**)
   
-  **Outstanding Graduate Teaching Assistant Award 2019**
+  [//]: # (**Outstanding Graduate Teaching Assistant Award 2019**)
   
-  **Outstanding Graduate Teaching Assistant Award 2018**
+  [//]: # (**Outstanding Graduate Teaching Assistant Award 2018**)
   
 * Intermediate Microeconomics, UNC-CH, Spring 2021
 * Financial Economics, UNC-CH, Summer 2020
 * Advanced Macroeconomics Theory II (Graduate), UNC-CH, Spring 2019
-
-### Instructor
-* Intermediate Macroeconomics, UNC-CH, Summer 2021
-* Introductory Macroeconomics, Osaka International University, Spring 2016/15
