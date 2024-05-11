@@ -23,10 +23,8 @@ author_profile: true
    In recent decades, wealth inequality has become an increasingly prominent issue in many developed countries. The United States, in particular, has seen significant increases in wealth gaps, sparking fierce debates over how best to address the issue. One of the most contentious proposals has been the idea of redistributive policies, including calls to tax capital income, wealth, and inheritance. In this paper, we examine the impacts of capital income, wealth, and estate taxation within a quantitative framework. In contrast to existing studies, we also investigate joint reforms, in which the government can simultaneously modify the schedules for all three taxes.
    </details>
 
-2. Entrepreneurship and Informality in Developing Countries 
+2. [Entrepreneurship and Informality in Developing Countries](../files/Informal_Firms_Abstract.pdf) 
    (with *Roberto Lagos Mondragon*)
-   <details>\[Long Abstract(../files/Aiyagari.pdf)\] 
-   </details>
    <details><summary>Abstract</summary>   
    The informal sector is a prominent feature of developing countries. These high informality levels have important consequences for development. Using the Brazilian National Household Sample Survey (PNAD) data, we present three main findings. First, surprisingly, over one-third of entrepreneurs in the top income decile of the entire Brazilian population operate businesses in the informal sector. Second, formal sector entrepreneurs are primarily concentrated in higher income groups, with 29.2% of them belonging to the top income decile and 61.5% to income deciles 8-10. Lastly, we observe that informal sector entrepreneurs in the top income group are more likely to switch to the formal sector, while formal sector entrepreneurs in the bottom income group are more likely to switch to the informal sector. We propose a general equilibrium, heterogeneous agent model with occupation choice and learning to reconcile these empirical observations. We then calibrate this model to match empirical moments. The calibrated model serves as a laboratory for conducting policy experiments.
    </details>
