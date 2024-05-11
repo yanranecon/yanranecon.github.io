@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Instructor
-* <a href="https://stackoverflow.com/questions/67249254/how-do-i-link-pages-in-github-pages">Research</a>, UQ, 2024
+* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/131477">Intermediate Macroeconomics</a>, UQ, 2024
 * Intermediate Macroeconomics, UNC-CH, Summer 2021
 * Introductory Macroeconomics, Osaka International University, Spring 2016/15
 
