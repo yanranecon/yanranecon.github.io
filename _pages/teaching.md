@@ -5,12 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Lecturer
+* Intermediate Macroeconomics, UQ, 2024
+
 ### Teaching Assistant
 * Financial Markets and Economic Fluctuations, UNC-CH, Spring 2023
 * Introduction to Economics, UNC-CH, Spring 2022
 * Advanced Macroeconomics Theory I (Graduate), UNC-CH, Fall 2021/20/19/18 \[[Slides](https://github.com/yanranecon/Econ720_Recitation)\]  
   
-  **Outstanding Graduate Teaching Assistant Award 2020**
+  [//]: # (**Outstanding Graduate Teaching Assistant Award 2020**)
   
   **Outstanding Graduate Teaching Assistant Award 2019**
   
