@@ -24,7 +24,7 @@ author_profile: true
    </details>
 
 2. Entrepreneurship and Informality in Developing Countries 
-   (with * * Roberto Lagos Mondragon)
+   (with * *Roberto Lagos Mondragon)
    <details><summary>Abstract</summary>   
    The informal sector is a prominent feature of developing countries. Formal businesses are those registered with the government, while informal firms operate without tax authority registration but are legal in all other respects. These high informality levels have important consequences for development. Not surprisingly, the questions of how the informal sector affects the aggregate economy and how to induce informal firms to formalize have motivated a large literature as well as an intense policy debate. So far, the literature studies the informal sector by focusing on either workers or firms, leaving entrepreneurship in this context relatively unexplored. Understanding the entrepreneurial decisions between formal and informal businesses will draw new insights into evaluating government policies for effective formalization strategies, addressing issues such as resource misallocation, total factor productivity losses, and other aspects of economic development.<br/>
 
