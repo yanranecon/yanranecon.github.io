@@ -23,11 +23,9 @@ author_profile: true
    In recent decades, wealth inequality has become an increasingly prominent issue in many developed countries. The United States, in particular, has seen significant increases in wealth gaps, sparking fierce debates over how best to address the issue. One of the most contentious proposals has been the idea of redistributive policies, including calls to tax capital income, wealth, and inheritance. In this paper, we examine the impacts of capital income, wealth, and estate taxation within a quantitative framework. In contrast to existing studies, we also investigate joint reforms, in which the government can simultaneously modify the schedules for all three taxes.
    </details>
 
-2. Entrepreneurship and Informality in Developing Countries
-   
+2. Entrepreneurship and Informality in Developing Countries 
    with Roberto Lagos Mondragon
-   <details><summary>Abstract</summary>
-      
+   <details><summary>Abstract</summary>   
    The informal sector is a prominent feature of developing countries. Formal businesses are those registered with the government, while informal firms operate without tax authority registration but are legal in all other respects. These high informality levels have important consequences for development. Not surprisingly, the questions of how the informal sector affects the aggregate economy and how to induce informal firms to formalize have motivated a large literature as well as an intense policy debate. So far, the literature studies the informal sector by focusing on either workers or firms, leaving entrepreneurship in this context relatively unexplored. Understanding the entrepreneurial decisions between formal and informal businesses will draw new insights into evaluating government policies for effective formalization strategies, addressing issues such as resource misallocation, total factor productivity losses, and other aspects of economic development.
 
    Using the Brazilian National Household Sample Survey (PNAD) data, we present three main findings. First, surprisingly, over one-third of entrepreneurs in the top income decile of the entire Brazilian population operate businesses in the informal sector. Second, formal sector entrepreneurs are primarily concentrated in higher income groups, with $29.2\%$ of them belonging to the top income decile and $61.5\%$ to income deciles 8-10. Lastly, we observe that informal sector entrepreneurs in the top income group are more likely to switch to the formal sector, while formal sector entrepreneurs in the bottom income group are more likely to switch to the informal sector. These observations, particularly the first and third, are quite novel to the literature.
