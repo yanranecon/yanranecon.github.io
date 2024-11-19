@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor at Department Of Economics, York University. My research focuses on the implications of redistributive taxation for inequality and productivity. I also have a keen interest in studying entrepreneurship and the dynamics of firms.
 
-**Contact**: gyr123@gmail.com
+**Contact**: yrguo@yorku.ca
 
 **Research Interests**: Macroeconomics, Entrepreneurship, Firm Dynamics, Income and Wealth Inequality, Taxation
 
