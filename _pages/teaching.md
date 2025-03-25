@@ -13,7 +13,7 @@ author_profile: true
 * Intermediate Macroeconomics, UNC-CH, Summer 2021
 * Introductory Macroeconomics, Osaka International University, Spring 2016/15
 
-### Teaching Assistant
+<!-- ### Teaching Assistant
 * Financial Markets and Economic Fluctuations, UNC-CH, Spring 2023
 * Introduction to Economics, UNC-CH, Spring 2022
 * Advanced Macroeconomics Theory I (Graduate), UNC-CH, Fall 2021/20/19/18 \[[Slides](https://github.com/yanranecon/Econ720_Recitation)\]  
@@ -26,3 +26,4 @@ author_profile: true
   [//]: # (**Outstanding Graduate Teaching Assistant Award 2019**)
   
   [//]: # (**Outstanding Graduate Teaching Assistant Award 2018**)
+-->
