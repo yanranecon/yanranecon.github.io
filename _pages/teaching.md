@@ -8,8 +8,8 @@ author_profile: true
 ### Instructor
 * Intermediate Macroeconomics I, York, Winter 2025
 * Intermediate Macroeconomics II, York, Winter 2024, Fall 2025
-* Topics In Macroeconomic Theory (1st Year PhD Course), York, Fall 2024
-* Economic Development (Master Selective Course), York, Fall 2024/2025
+* Topics In Macroeconomic Theory (1st Year PhD Core), York, Fall 2024
+* Economic Development (Master Course), York, Fall 2024/2025
 * <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/131477">Intermediate Macroeconomics</a>, UQ, 2024
 * Intermediate Macroeconomics, UNC-CH, Summer 2021
 * Introductory Macroeconomics, Osaka International University, Spring 2016/15
