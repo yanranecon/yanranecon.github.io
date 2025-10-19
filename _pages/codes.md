@@ -5,7 +5,6 @@ permalink: /codes/
 author_profile: true
 ---
 
-
 My research relies heavily on computation. I started my coding adventure by replicating two classic models -- Aiyagari (1994) and Huggett (1996).
 
 I am sharing my notes and Matlab code. Hopefully, it will help you and make your first step toward tackling interesting questions in quantitative macroeconomics less painful. 
