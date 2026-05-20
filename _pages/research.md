@@ -14,7 +14,7 @@ author_profile: true
 
 2. [Inheritance, Entrepreneurship, and Estate Taxation](../files/Inheritance_and_Entrepreneurship_Yanran.pdf)
    <br>
-   R&R at _**Journal of Economic Dynamics and Control**_
+   Accepted at _**Journal of Economic Dynamics and Control**_
    <details><summary>Abstract</summary>
    This paper studies the joint roles of inheritance and entrepreneurship in shaping wealth inequality using a heterogeneous agent, general equilibrium overlapping generations model. The analysis is disciplined by new empirical evidence from the Survey of Consumer Finances on the relative importance of inheritances among very wealthy households. In the data, among households in the richest 1% of the wealth distribution, only about 6% have received inheritances accounting for at least half of their net worth, and more than half report receiving no inheritance at all. Consistent with these facts, the calibrated model implies that inheritances play only a limited role in generating extreme wealth. Using the calibrated model, the paper evaluates estate tax reforms and finds that their effects on wealth concentration are smaller than commonly believed.
    </details>
