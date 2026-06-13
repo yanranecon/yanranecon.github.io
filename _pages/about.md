@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Department of Economics, York University. I am a macroeconomist studying entrepreneurship and firm dynamics. My research examines how entrepreneurial activity interacts with taxation, inequality, innovation, and informality, and how these forces shape productivity, economic growth, and development.
+I am an Assistant Professor at the Department of Economics, York University. 
+I am a macroeconomist studying entrepreneurship and firm dynamics. My research examines how entrepreneurial activity interacts with taxation, inequality, innovation, and informality, and how these forces shape productivity, economic growth, and development.
 
 **Contact**: yrguo@yorku.ca
 
