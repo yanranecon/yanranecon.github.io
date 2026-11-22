@@ -36,6 +36,7 @@ author_profile: true
    <details><summary>Abstract</summary>
    While a growing literature studies how artificial intelligence (AI) affects labor markets, much less is known about its impact on entrepreneurial entry. Using detailed individual-level employment histories from U.S. LinkedIn profiles provided by Revelio Labs, we examine how AI exposure affects individuals' decisions to become entrepreneurs following the release of ChatGPT. Exploiting variation in pre-ChatGPT industry AI exposure, we find that AI increases entrepreneurial entry among researchers, with no detectable response among non-researchers. Among researchers, the entry response exhibits a hump-shaped pattern across research experience, peaking at intermediate career stages. To understand these findings, we develop a theoretical model that combines occupational choice with endogenous growth. The model reproduces both empirical patterns and allows us to examine the productivity implications of the resulting reallocation of research talent. We find that the productivity cost of losing a researcher varies with experience and can be lowest at intermediate career stages. Furthermore, while AI-induced entrepreneurial entry increases innovation in the short run, its contribution to longer run aggregate productivity can be positive or negative. These findings highlight the importance of talent reallocation in understanding the productivity consequences of AI-induced entrepreneurship.
    </details>
+   
    *Draft available upon request.*
    
 ## Work in Progress
